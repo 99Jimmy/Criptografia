@@ -1,9 +1,3 @@
-* Esse é um progama que foi desenvolvido junto com um amigo de faculdade para o trabalho de " Atividades Prática Supervisionadas ".
-
-
------------------------------------------------------------------------------------------------------------------------------------
-
-
 ## FUNÇÕES DO PROGAMA:
 
 
