@@ -13,13 +13,13 @@
 ## COMO FUNCIONA O PROGAMA:
 
 
--- Ao executar o progama será perguntado se deseja " criptografar ou descriptografar uma mensagem ", sendo " 1 " para " criptografar " e " 2 " para descriptografar.
+* Ao executar o progama será perguntado se deseja " criptografar ou descriptografar uma mensagem ", sendo " 1 " para " criptografar " e " 2 " para descriptografar.
 
 
--- O próximo passo pedirá para digitar a mensagem e em seguida a senha (apenas números inteiros).
+* O próximo passo pedirá para digitar a mensagem e em seguida a senha (apenas números inteiros).
 
 
--- Após fazer os passos acima será retornada a mesagem criptografada/descriptografada.
+* Após fazer os passos acima será retornada a mesagem criptografada/descriptografada.
 
 
 ## COMO FUNCIONA O CÓDIGO DO PROGAMA:
