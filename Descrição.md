@@ -7,7 +7,7 @@
 ## FUNÇÕES DO PROGAMA:
 
 
--- Esse progama tem 2 funções, uma de " criptografar uma mensagem " e a outra para " descriptografar uma mensagem ".
+* Esse progama tem 2 funções, uma de " criptografar uma mensagem " e a outra para " descriptografar uma mensagem ".
 
 
 ## COMO FUNCIONA O PROGAMA:
@@ -25,28 +25,28 @@
 ## COMO FUNCIONA O CÓDIGO DO PROGAMA:
 
 
--- No caso da opção de " criptografar ", o progama irá pedir para criar uma mensagem e em seguida uma senha.
+* No caso da opção de " criptografar ", o progama irá pedir para criar uma mensagem e em seguida uma senha.
 
 
--- A senha fornecida pelo usuário será usado como uma " seed " para gerar 2 números de 1 até 99 (sempre que for fornecido a mesma seed, os números gerados serão os mesmos)
+* A senha fornecida pelo usuário será usado como uma " seed " para gerar 2 números de 1 até 99 (sempre que for fornecido a mesma seed, os números gerados serão os mesmos)
 
 
--- Em seguida o código irá chamar a função de " criptografar " e nessa função a mensagem vai passar por um looping, que tem como função iterar em todos os caracteres da mensagem, um por um.
+* Em seguida o código irá chamar a função de " criptografar " e nessa função a mensagem vai passar por um looping, que tem como função iterar em todos os caracteres da mensagem, um por um.
 
 
--- A cada looping irá alterar um caracter da mensagem. Primeiro o caracter é substituído pelo seu representante numérico da " Tabela ASCII " usando a função " ord ".
+* A cada looping irá alterar um caracter da mensagem. Primeiro o caracter é substituído pelo seu representante numérico da " Tabela ASCII " usando a função " ord ".
 
 
--- Logo então o representante numérico do caracter é somado com o produto dos 2 números gerados pela seed (senha que foi fornecida pelo usuário).
+* Logo então o representante numérico do caracter é somado com o produto dos 2 números gerados pela seed (senha que foi fornecida pelo usuário).
 
 
--- E por último, com o resultado da conta feita, é usado a função " chr( função oposta da função ord ) " que substitui o representante numérico da " Tabela ASCII " para um caracter.
+* E por último, com o resultado da conta feita, é usado a função " chr( função oposta da função ord ) " que substitui o representante numérico da " Tabela ASCII " para um caracter.
 
 
--- Então o looping irá se repetir até ter criptografado a mensagem inteira.
+* Então o looping irá se repetir até ter criptografado a mensagem inteira.
 
 
--- Já no caso da opção de " descriptografar ", o progama irá pedir para inserir a mensagem que foi criptografada junto com a senha criada da mesma.
+* Já no caso da opção de " descriptografar ", o progama irá pedir para inserir a mensagem que foi criptografada junto com a senha criada da mesma.
 
 
--- O código irá rodar da mesma forma que foi explicado acima com a opção de " criptografar ", com a diferença que em vez de fazer " a soma do produto dos 2 números gerados pela seed com o representante numérico da Tabela ASCII " será feita a " subtração da divisão dos 2 números gerados pela seed com o representante numérico da Tabela ASCII ". Que é o equivalente ao processo inverso da criptografia.
+* O código irá rodar da mesma forma que foi explicado acima com a opção de " criptografar ", com a diferença que em vez de fazer " a soma do produto dos 2 números gerados pela seed com o representante numérico da Tabela ASCII " será feita a " subtração da divisão dos 2 números gerados pela seed com o representante numérico da Tabela ASCII ". Que é o equivalente ao processo inverso da criptografia.
