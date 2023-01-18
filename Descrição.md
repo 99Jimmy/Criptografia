@@ -4,7 +4,7 @@
 
 
 
-* FUNÇÕES DO PROGAMA:
+## FUNÇÕES DO PROGAMA:
 
 
 
