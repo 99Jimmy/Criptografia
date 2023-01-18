@@ -1,10 +1,17 @@
 # Esse é um progama que foi desenvolvido junto com um amigo de faculdade para o trabalho de " Atividades Prática Supervisionadas ".
 
 
+
+
+
 * FUNÇÕES DO PROGAMA:
 
 
+
 -- Esse progama tem 2 funções, uma de " criptografar uma mensagem " e a outra para " descriptografar uma mensagem ".
+
+
+
 
 
 * COMO FUNCIONA O PROGAMA:
@@ -17,6 +24,9 @@
 
 
 -- Após fazer os passos acima será retornada a mesagem criptografada/descriptografada.
+
+
+
 
 
 * COMO FUNCIONA O CÓDIGO DO PROGAMA:
