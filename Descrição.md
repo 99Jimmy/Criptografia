@@ -4,6 +4,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## FUNÇÕES DO PROGAMA:
 
 
@@ -14,7 +25,7 @@
 
 
 
-* COMO FUNCIONA O PROGAMA:
+## COMO FUNCIONA O PROGAMA:
 
 
 -- Ao executar o progama será perguntado se deseja " criptografar ou descriptografar uma mensagem ", sendo " 1 " para " criptografar " e " 2 " para descriptografar.
@@ -29,7 +40,7 @@
 
 
 
-* COMO FUNCIONA O CÓDIGO DO PROGAMA:
+## COMO FUNCIONA O CÓDIGO DO PROGAMA:
 
 
 -- No caso da opção de " criptografar ", o progama irá pedir para criar uma mensagem e em seguida uma senha.
